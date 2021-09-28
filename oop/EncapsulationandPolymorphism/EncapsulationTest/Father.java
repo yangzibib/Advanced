@@ -9,20 +9,20 @@ import Encapsulation.Person;
 public class Father extends Person {
    String WifeName;
 
-   Father father=new Father();
+   //Father father=new Father();
 
    public Father() {
       System.out.println("进入了father的构造函数");
    }
 
    public void setTelephone(String inputTelephonr){
-      father.telephone=""+inputTelephonr;
+      this.telephone=""+inputTelephonr;
    }
    public String getTelephone(){
-      return father.telephone;
+      return this.telephone;
    }
    void show (){
-      System.out.println(""+father.getTelephone());
+      System.out.println(""+this.getTelephone());
    }
 
 

@@ -1,12 +1,10 @@
-package Encapsulation;
-
-import Extends.StudentTest;
+package Extends;
 
 /**
  * @Author Yangzibin
  * @Date 2021/9/27
  */
-public class Person {
+public class Person extends Biology{
     private int  age;
     public  String name;
     boolean sex;
