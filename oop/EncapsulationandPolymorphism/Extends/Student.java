@@ -12,6 +12,5 @@ public class Student  extends Person implements BiologyInterfaceTest
     @Override
     public void run() {
 
-
     }
 }
