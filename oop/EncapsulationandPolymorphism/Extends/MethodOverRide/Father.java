@@ -9,7 +9,11 @@ public class Father extends Person{
     private  String country;
     int eyes;
     int age;
-     protected void see(){
+    String wife;
+
+
+
+    protected void see(){
         System.out.println("老婆");
     }
     public Father obj(){

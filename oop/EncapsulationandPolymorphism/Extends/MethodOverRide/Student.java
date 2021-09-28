@@ -14,9 +14,12 @@ public class Student extends Father{
 //        super.see();
         System.out.println("漂亮女同学");
     }
-
     @Override
-    public Student obj() {
+    public  Student obj() {
         return this;
+    }
+    @Override
+    public void breath(){
+        System.out.println("大口吸气");
     }
 }

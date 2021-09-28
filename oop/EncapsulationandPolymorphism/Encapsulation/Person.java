@@ -31,5 +31,8 @@ public class Person {
     int getAge(){
         return age;
     }
+    protected void Test(){
+        System.out.println("调用了ProtectTest方法");
+    }
 
 }
