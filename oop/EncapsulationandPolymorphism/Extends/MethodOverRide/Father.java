@@ -19,6 +19,8 @@ public class Father extends Person{
     public Father obj(){
          return this;
     }
-
+    public void run(){
+        System.out.println("我能跑");
+    }
 
 }

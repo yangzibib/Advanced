@@ -10,7 +10,7 @@ public class Person {
     private int  age;
     public  String name;
     boolean sex;
-    protected  static  String telephone;
+    protected String telephone;
 
     public Person() {
         System.out.println("进入了Person的构造函数");

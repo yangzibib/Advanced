@@ -22,4 +22,7 @@ public class Student extends Father{
     public void breath(){
         System.out.println("大口吸气");
     }
+    public  void study(){
+        System.out.println("我会学习");
+    }
 }

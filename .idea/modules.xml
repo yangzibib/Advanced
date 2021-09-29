@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/JavaBase/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase/JavaBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java进阶.iml" filepath="$PROJECT_DIR$/Java进阶.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyEnum/StudyEnum.iml" filepath="$PROJECT_DIR$/StudyEnum/StudyEnum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionTest/collectionTest.iml" filepath="$PROJECT_DIR$/collectionTest/collectionTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
     </modules>
