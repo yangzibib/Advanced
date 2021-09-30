@@ -15,8 +15,10 @@ public class EqualsTest {
         System.out.println(a==c);
         System.out.println(a==d);
         System.out.println(args.length);
+        T();
 
     }
     public static void T(){
+        System.out.println("hha");
     }
 }
